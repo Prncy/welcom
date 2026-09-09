@@ -1,0 +1,38 @@
+# CTF TOOLBOX
+
+# Encoding / Decoding
+CyberChef — https://gchq.github.io/CyberChef/
+dCode — https://www.dcode.fr/
+Base64 Decode — https://www.base64decode.org/
+URL Decode — https://www.urldecoder.org/
+
+# Cipher / Crypto
+dCode Cipher Identifier — https://www.dcode.fr/cipher-identifier
+dCode Cryptography Tools — https://www.dcode.fr/tools-list
+CyberChef — https://gchq.github.io/CyberChef/
+
+# Hashes
+Hashes.com — https://hashes.com/en/tools/hash_identifier
+dCode Hash Identifier — https://www.dcode.fr/hash-identifier
+Hashcat — https://hashcat.net/hashcat/
+CrackStation — https://crackstation.net/
+
+# File / Metadata / Forensics
+ExifTool — https://exiftool.org/
+Aperi'Solve — https://www.aperisolve.com/
+CyberChef — https://gchq.github.io/CyberChef/
+
+# Web / Recon
+URLScan — https://urlscan.io/
+VirusTotal — https://www.virustotal.com/
+WHOIS — https://who.is/
+DNSDumpster — https://dnsdumpster.com/
+
+# Regex / Text
+Regex101 — https://regex101.com/
+CyberChef — https://gchq.github.io/CyberChef/
+
+# CTF Reference
+CTFtime — https://ctftime.org/
+OWASP — https://owasp.org/
+MITRE ATT&CK — https://attack.mitre.org/
